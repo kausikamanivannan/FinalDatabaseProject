@@ -1,1 +1,2 @@
-# itsc-3155-modules-1-and-2
+# Car Rental Service Database
+The objective of this project is for a vehicle rental company to be able to maintain and adapt their data in an efficient and effective way. Some functions include managing product inventory, checking what vehicles are available, and ensuring payments are made for rentals. This project will allow us to understand the flow of how online vehicle rental services work, understand the underlying relationship between entities (tables), and understand how we can replicate this in relational databases.
